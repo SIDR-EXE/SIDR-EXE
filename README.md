@@ -12,7 +12,7 @@
 
 I'm **SIDR.EXE**, also written **SIDR_EXE**. Same name and same face everywhere.
 
-I work where cold math meets hot rage: **machine learning**, **deep learning**, **gaming** and **game development**.
+I like to work on: **machine learning**, **deep learning**, **gaming** and **game development**.
 
 <img src="./assets/divider.svg" alt="" width="100%">
 
